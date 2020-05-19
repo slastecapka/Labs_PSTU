@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\ainur\Desktop\c++\labs\lab2\main.cpp(13,36): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ainur\Desktop\c++\labs\lab2\main.cpp(23,28): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ainur\Desktop\c++\labs\lab2\main.cpp(31,22): warning C4305: аргумент: усечение из "double" в "float"
+  lab2.vcxproj -> C:\Users\ainur\Desktop\c++\labs\Debug\lab2.exe

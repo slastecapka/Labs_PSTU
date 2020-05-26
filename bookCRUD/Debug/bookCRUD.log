@@ -1,0 +1,6 @@
+﻿  Vector.cpp
+C:\Users\ainur\Desktop\c++\labs\bookCRUD\Vector.cpp(36,20): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\ainur\Desktop\c++\labs\bookCRUD\Vector.cpp(63,21): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\ainur\Desktop\c++\labs\bookCRUD\Vector.cpp(73,21): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\ainur\Desktop\c++\labs\bookCRUD\Vector.cpp(95,15): warning C4018: >: несоответствие типов со знаком и без знака
+  bookCRUD.vcxproj -> C:\Users\ainur\Desktop\c++\labs\Debug\bookCRUD.exe

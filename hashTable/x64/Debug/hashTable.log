@@ -1,0 +1,8 @@
+﻿  HashTable.cpp
+C:\Slastecapka\Study\Полякова 2 семестр\teorija algoritmov\labs_28_29_31\labs\hashTable\HashTable.h(25,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Slastecapka\Study\Полякова 2 семестр\teorija algoritmov\labs_28_29_31\labs\hashTable\HashTable.cpp(21,8): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Person.cpp
+  main.cpp
+C:\Slastecapka\Study\Полякова 2 семестр\teorija algoritmov\labs_28_29_31\labs\hashTable\HashTable.h(25,19): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  hashTable.vcxproj -> C:\Slastecapka\Study\Полякова 2 семестр\teorija algoritmov\labs_28_29_31\labs\x64\Debug\hashTable.exe

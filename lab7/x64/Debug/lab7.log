@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Time.cpp
+  Создание кода...
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab7\Vector.h(92): warning C4715: Vector<int>::operator[]: значение возвращается не при всех путях выполнения
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab7\Vector.h(92): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  lab7.vcxproj -> C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\x64\Debug\lab7.exe

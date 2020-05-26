@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ainur\Desktop\c++\labs\lab11,12,13\main.cpp(133,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ainur\Desktop\c++\labs\lab11,12,13\main.cpp(88): warning C4717: operator==: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  lab11,12,13.vcxproj -> C:\Users\ainur\Desktop\c++\labs\Debug\lab11_12_13.exe

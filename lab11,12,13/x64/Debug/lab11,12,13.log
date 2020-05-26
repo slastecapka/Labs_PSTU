@@ -1,0 +1,64 @@
+﻿  first.cpp
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\first.cpp(63,15): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  fourth.cpp
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\fourth.cpp(71,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lb12.cpp
+  main.cpp
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(118,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(171,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\Vector.h(102,1): warning C4267: return: преобразование из "size_t" в "T"; возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\Vector.h(94): message : во время компиляции функции-члена класс шаблон "T Vector<T>::findAvg(void)"
+          with
+          [
+              T=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\Vector.h(108): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::findAvg(void)"
+          with
+          [
+              T=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\Vector.h(33): message : во время компиляции функции-члена класс шаблон "Vector<int>::Vector(int)"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(33): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<int>::Vector(int)"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(33): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<int>"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\VectorQueue.h(124,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\VectorQueue.h(123): message : во время компиляции функции-члена класс шаблон "T VectorQueue<T>::findAvg(std::queue<T,std::deque<int,std::allocator<int>>>)"
+          with
+          [
+              T=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\VectorQueue.h(139): message : выполняется компиляция ссылки на экземпляр шаблон функции "T VectorQueue<T>::findAvg(std::queue<T,std::deque<int,std::allocator<int>>>)"
+          with
+          [
+              T=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\VectorQueue.h(37): message : во время компиляции функции-члена класс шаблон "VectorQueue<int>::VectorQueue(int)"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "VectorQueue<int>::VectorQueue(int)"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(51): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "VectorQueue<int>"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\lb12.h(67,1): warning C4267: return: преобразование из "size_t" в "V"; возможна потеря данных
+          with
+          [
+              V=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\lb12.h(63): message : во время компиляции функции-члена класс шаблон "V VectorMap<int,V>::findAvg(std::map<int,int,std::less<int>,std::allocator<std::pair<const int,int>>>)"
+          with
+          [
+              V=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\lb12.h(73): message : выполняется компиляция ссылки на экземпляр шаблон функции "V VectorMap<int,V>::findAvg(std::map<int,int,std::less<int>,std::allocator<std::pair<const int,int>>>)"
+          with
+          [
+              V=int
+          ]
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\lb12.h(37): message : во время компиляции функции-члена класс шаблон "VectorMap<int,int>::VectorMap(int)"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(79): message : выполняется компиляция ссылки на экземпляр шаблон функции "VectorMap<int,int>::VectorMap(int)"
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(79): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "VectorMap<int,int>"
+  second.cpp
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\second.cpp(58,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Time.cpp
+  Создание кода...
+C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\lab11,12,13\main.cpp(88): warning C4717: operator==: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  lab11,12,13.vcxproj -> C:\Slastecapka\Study\Полякова 2 семестр\osnovy algoritmizacii\labs\x64\Debug\lab11_12_13.exe
